@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/xz51xt">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Développeur;Passionné%20de%20programmation&center=true&size=27">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Développeur;Passionné%20de%20programmation&center=true&size=25">
   </a>
 </h1>
 
